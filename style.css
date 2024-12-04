@@ -1,0 +1,29 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Heading Styling */
+h1 {
+    color: #4CAF50;
+    margin-top: 50px;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 1.2em;
+}
+
+/* Logo Styling */
+.logo {
+    width: 150px; /* Adjust the size of your logo */
+    height: auto; /* Keep the aspect ratio */
+    display: block; /* Centers the logo block-wise */
+    margin: 20px auto; /* Center horizontally with margin */
+    padding: 10px;
+}
